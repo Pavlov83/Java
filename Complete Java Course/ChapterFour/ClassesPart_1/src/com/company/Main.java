@@ -6,7 +6,8 @@ public class Main {
         Car porsche = new Car();
         Car audi = new Car();
 
-        porsche.model = "Carrera"; // model in class Car should be public
+        porsche.setModel("Carrera");
+        System.out.println("Model is" + porsche.getModel());
 
     }
 }
