@@ -6,48 +6,28 @@ import java.util.Scanner;
 
 public class Main {
 
-    static Scanner sc = new Scanner(System.in);
-    public static int getSum(int x, int y) {
-        return x + y;
-    }
-        public static void changeMe(int cNum){
-            cNum = 10;
-        }
 
-        public static void main(String[] args) {
 
-            System.out.println("5 + 4 =" + getSum(4,5));
 
-            int cNum = 0;
-            changeMe(cNum);
-            System.out.println("cNum = " + cNum);
+        //function which calls itself is called recursive function
 
-        }
+            static int factorial(int num) {
 
-        public static int getSum2(int ... nums) {
-            int sum = 0;
-            for (int x : nums) {
-                sum += x;
+                if(num == 1){
+                    return 1;
+                } else{
+                    int result = num * factorial(num-1);
+                    return result;
+
+                }
+
+
             }
-            return sum;
-        }
 
-        static int[] getNext2(int x) {
-            int[] vals = new int[2];
-            vals[0] = x + 1;
-            vals[1] = x + 2;
-            return vals;
-        }
+    public static void main(String[] args) {
+        System.out.println("Fact4" + factorial(4));
 
-
-        //return list of different types
-
-        static  int[] multVA = getNext2(5);
-        for(int x: multVA) System.out.println(x);
-
-       static List<Object> getRandList();
-        String name = "Pavel";
-        int age = 36;
-        return Arrays.asList(name, age);
     }
 
+
+        }
