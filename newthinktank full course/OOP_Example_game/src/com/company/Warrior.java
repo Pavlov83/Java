@@ -29,19 +29,19 @@ public class Warrior {
         return 1 + (int)(Math.random() *(blockMax -1) +1);
     }
 
-   public Warrior(String name, int health,
+    public Warrior(String name, int health,
                   int attKMax, int blockMax){
          this.setName(name);
 
 
    }
 
-   public String getName(){
+    public String getName(){
 
        return name;
    }
 
-   public void setName(String name){
+    public void setName(String name){
        this.name = name;
    }
 
