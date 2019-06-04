@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="90">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Battle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -91,7 +91,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,6 +113,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +159,7 @@
   <component name="ToolWindowManager">
     <frame x="561" y="23" width="1027" height="852" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25482234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25989848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -187,6 +187,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Warrior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -194,17 +201,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Battle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
