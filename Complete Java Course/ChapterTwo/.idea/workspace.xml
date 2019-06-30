@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41c4e354-feef-4eb9-915b-6892f92fa712" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ChapterOne/TheForLoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/BasicOperatorsAndDatatypes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/DataTypes Excercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/out/production/DataTypes Excercises/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/DataTypes Excercises/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/Datatypes_variables_operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/basic_calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/get_user_input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BasicOperatorsAndDatatypes/variables_dataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/Byte_Short_Int_Long.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Byte_Short_Int_Long/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/CodingSession_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/out/production/CodingSession_1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/out/production/CodingSession_1/com/company/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/out/production/CodingSession_1/com/company/PersonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/src/com/company/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodingSession_1/src/com/company/PersonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/ClassesPart_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/src/com/company/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/ClassesPart_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/out/production/ClassesPart_2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/src/com/company/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/ClassesPart_2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/copyright/Pavlov.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/oop_challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/out/production/oop_challenge/META-INF/oop_challenge.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/out/production/oop_challenge/com/pav/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/out/production/oop_challenge/com/pav/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/src/com/pav/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterFour/oop_challenge/src/com/pav/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/SwitchStatement/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/SwitchStatement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/SwitchStatement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/SwitchStatement/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/SwitchStatement/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/SwitchStatement/SwitchStatement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/Operators/SwitchStatement/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/TheFor statement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/out/production/TheFor statement/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/TheFor statement/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/WhileAndDoWhile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/out/production/WhileAndDoWhile/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChapterThree/WhileAndDoWhile/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data Structures/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flow Control/ControlFlowStatements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flow Control/FlowControlExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flow Control/IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flow Control/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flow Control/TheForStatement" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/ForLoop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/out/production/ForLoop/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForLoop/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getting_user_input/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getting_user_input/.idea/getting_user_input.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getting_user_input/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getting_user_input/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getting_user_input/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getting_user_input/getting_user_input.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getting_user_input/out/production/getting_user_input/Main.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="806" />
+    <option name="y" value="139" />
+    <option name="width" value="634" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChapterTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChapterTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChapterTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChapterTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChapterTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChapterTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561918081877" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ChapterTwo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c4e354-feef-4eb9-915b-6892f92fa712" name="Default Changelist" comment="" />
+      <created>1561915213629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561915213629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="806" y="139" width="634" height="724" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24921136" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
