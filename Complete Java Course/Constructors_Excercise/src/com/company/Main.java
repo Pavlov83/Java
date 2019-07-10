@@ -14,8 +14,11 @@ public class Main {
         //3.add print statements in those methods as well
 
 
+    Account bobsAccount = new Account(234,468.8,"Bob Saget",
+            "saget@saga.com","555-111-333");
 
-
+    bobsAccount.deposit(50.0);
+    bobsAccount.withdrawal(100);
 
 
     }
