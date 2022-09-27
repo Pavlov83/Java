@@ -29,5 +29,13 @@ public class Datatypes{
         //Long can store 64bit data
         long myLongValue = 100L;
 
+        //32bit floating point
+        Float myFloat = Float.MIN_VALUE;
+        Float myMaxFloat = Float.MAX_VALUE;
+
+        //64bit Double precision value
+        Double myDouble = Double.MIN_VALUE;
+        Double myMaxDouble = Double.MAX_VALUE;
+
     }
 }

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac226765-66b3-4fcf-b5ad-c434efb42697" name="Changes" comment="added all datatypes" />
+    <list default="true" id="ac226765-66b3-4fcf-b5ad-c434efb42697" name="Changes" comment="added all datatypes">
+      <change afterPath="$PROJECT_DIR$/Variables/src/test/java/primitive_types_challenge/PrimitiveTypesChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/src/test/java/variables/Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/src/test/java/variables/Datatypes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +45,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-17",
     "last_opened_file_path": "/Users/pav/Java/FullCourseUdemy",
     "project.structure.last.edited": "Modules",
@@ -112,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664301902680</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added all datatypes">
+      <created>1664302438250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664302438250</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added all datatypes">
+      <created>1664306929892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664306929892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +143,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Chapter_1_Intro" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
