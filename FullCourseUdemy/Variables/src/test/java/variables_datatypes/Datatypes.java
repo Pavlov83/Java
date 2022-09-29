@@ -1,4 +1,4 @@
-package variables;
+package variables_datatypes;
 
 public class Datatypes{
 
@@ -36,6 +36,20 @@ public class Datatypes{
         //64bit Double precision value
         Double myDouble = Double.MIN_VALUE;
         Double myMaxDouble = Double.MAX_VALUE;
+
+
+        //char occupies 16 bits as it allows to store unicode characters
+        char mychar = 'A';
+        char myUnicodeChar = '\u0044';
+
+        //boolean takes one bit of space
+        boolean mybool = true;
+
+        //String is sequence of characters
+        // String can contain the max value of an int (2.14 billion)
+
+        String myString = "My string";
+
 
     }
 }
