@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac226765-66b3-4fcf-b5ad-c434efb42697" name="Changes" comment="added float challenge">
+    <list default="true" id="ac226765-66b3-4fcf-b5ad-c434efb42697" name="Changes" comment="strings added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/src/test/java/variables/Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/src/test/java/variables_datatypes/Datatypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/src/test/java/primitive_types_challenge/FloatingPointChallenges.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/src/test/java/primitive_types_challenge/PrimitiveTypesChallenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/src/test/java/variables_datatypes/Datatypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/target/test-classes/primitive_types_challenge/FloatingPointChallenges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/target/test-classes/primitive_types_challenge/PrimitiveTypesChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/target/test-classes/variables/Datatypes.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +63,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Variables/src/main/src" />
       <recent name="$PROJECT_DIR$/Variables/src/main/java" />
       <recent name="$PROJECT_DIR$/Variables/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FloatingPointChallenges">
+  <component name="RunManager" selected="Application.OperatorsOperandsExpressions">
     <configuration name="FloatingPointChallenges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="primitive_types_challenge.FloatingPointChallenges" />
       <module name="Variables" />
@@ -78,6 +85,20 @@
     <configuration name="Java 11" type="Application" factoryName="Application" singleton="false">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorsOperandsExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators_operands_expressions.OperatorsOperandsExpressions" />
+      <module name="Variables" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators_operands_expressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,17 +121,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Variables" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Java 11" />
+      <item itemvalue="Application.OperatorsOperandsExpressions" />
       <item itemvalue="Application.FloatingPointChallenges" />
       <item itemvalue="Application.Variables" />
       <item itemvalue="Application.java11" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatorsOperandsExpressions" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="Application.FloatingPointChallenges" />
-        <item itemvalue="Application.java11" />
-        <item itemvalue="Application.Variables" />
         <item itemvalue="Application.java11" />
         <item itemvalue="Application.Variables" />
       </list>
@@ -174,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664470956790</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added float challenge">
+      <created>1664474885620</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664474885620</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
