@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="added logical 'and'">
-      <change afterPath="$PROJECT_DIR$/src/main/java/logical_operators/AssignmentOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/logical_operators/OperatorsChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/logical_operators/TernaryOperator.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="operators challenge">
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/MethodsChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logical_operators/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logical_operators/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logical_operators/OperatorsChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logical_operators/OperatorsChallenge.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperatorsChallenge">
+  <component name="RunManager" selected="Application.MethodsChallenge">
     <configuration name="AssignmentOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logical_operators.AssignmentOperator" />
       <module name="Java" />
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical_operators.OperatorsChallenge" />
+    <configuration name="MethodsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.MethodsChallenge" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logical_operators.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorsExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators_expressions.OperatorsExpressions" />
+    <configuration name="OperatorsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logical_operators.OperatorsChallenge" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operators_expressions.*" />
+          <option name="PATTERN" value="logical_operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsChallenge" />
         <item itemvalue="Application.OperatorsChallenge" />
         <item itemvalue="Application.TernaryOperator" />
         <item itemvalue="Application.AssignmentOperator" />
         <item itemvalue="Application.ConditionalLogic" />
-        <item itemvalue="Application.OperatorsExpressions" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664778785235</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="operators challenge">
+      <created>1664806535050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664806535050</updated>
+    </task>
+    <task id="LOCAL-00005" summary="operators challenge">
+      <created>1664806577269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664806577269</updated>
+    </task>
+    <task id="LOCAL-00006" summary="operators challenge">
+      <created>1664814191316</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664814191316</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +207,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added conditional logic" />
     <MESSAGE value="added logical 'and'" />
-    <option name="LAST_COMMIT_MESSAGE" value="added logical 'and'" />
+    <MESSAGE value="operators challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="operators challenge" />
   </component>
 </project>
