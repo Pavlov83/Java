@@ -22,7 +22,7 @@ public class OperatorsChallenge {
         System.out.println(remainderValue);
 
         if(!remainderValue){
-            System.out.println("Gor some remainder");
+            System.out.println("Got some remainder");
         }
     }
 
