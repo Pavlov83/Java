@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="operators challenge">
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/MethodsChallenge.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Methods">
+      <change afterPath="$PROJECT_DIR$/src/main/java/control_flow_statements/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/MethodOverloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logical_operators/OperatorsChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logical_operators/OperatorsChallenge.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664814191316</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Methods">
+      <created>1664823020017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664823020017</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +214,7 @@
     <MESSAGE value="added conditional logic" />
     <MESSAGE value="added logical 'and'" />
     <MESSAGE value="operators challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="operators challenge" />
+    <MESSAGE value="Methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods" />
   </component>
 </project>
