@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="added  method overloading and switch statements">
-      <change afterPath="$PROJECT_DIR$/src/main/java/control_flow_statements/ForLoop.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="for loops">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classes/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classes/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +51,13 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForLoop">
-    <configuration name="AssignmentOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical_operators.AssignmentOperator" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control_flow_statements.ForLoop" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logical_operators.*" />
+          <option name="PATTERN" value="control_flow_statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control_flow_statements.ForLoop" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control_flow_statements.*" />
+          <option name="PATTERN" value="classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.MethodsChallenge" />
         <item itemvalue="Application.OperatorsChallenge" />
         <item itemvalue="Application.TernaryOperator" />
-        <item itemvalue="Application.AssignmentOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664991547197</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="for loops">
+      <created>1664998140788</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664998140788</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +238,7 @@
     <MESSAGE value="operators challenge" />
     <MESSAGE value="Methods" />
     <MESSAGE value="added  method overloading and switch statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="added  method overloading and switch statements" />
+    <MESSAGE value="for loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="for loops" />
   </component>
 </project>
