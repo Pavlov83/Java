@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/classes/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/BankAcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/Constructors.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Constructors">
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665244299911</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Constructors">
+      <created>1665301182613</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665301182613</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +261,7 @@
     <MESSAGE value="added  method overloading and switch statements" />
     <MESSAGE value="for loops" />
     <MESSAGE value="Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes" />
+    <MESSAGE value="Constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructors" />
   </component>
 </project>
