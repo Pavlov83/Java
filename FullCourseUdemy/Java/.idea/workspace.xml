@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Constructors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Resolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665301182613</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Constructors">
+      <created>1665339922009</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665339922009</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
