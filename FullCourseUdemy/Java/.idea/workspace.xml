@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Constructors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/composition/Resolution.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Composition">
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/composition/Case.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Constructors">
+  <component name="RunManager" selected="Application.Polymorphism">
     <configuration name="Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructors.Constructors" />
       <module name="Java" />
@@ -92,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical_operators.OperatorsChallenge" />
+    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.Polymorphism" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logical_operators.*" />
+          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polymorphism" />
         <item itemvalue="Application.Constructors" />
         <item itemvalue="Application.classes.Main" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.MethodsChallenge" />
-        <item itemvalue="Application.OperatorsChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665339922009</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Composition">
+      <created>1665347906336</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665347906336</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +275,7 @@
     <MESSAGE value="for loops" />
     <MESSAGE value="Classes" />
     <MESSAGE value="Constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructors" />
+    <MESSAGE value="Composition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composition" />
   </component>
 </project>
