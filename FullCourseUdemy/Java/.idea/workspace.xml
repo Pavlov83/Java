@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Composition">
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lists_arraylists/ArryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lists_arraylists/List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composition/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/composition/Case.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Polymorphism">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructors.Constructors" />
       <module name="Java" />
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.MethodsChallenge" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Polymorphism" />
         <item itemvalue="Application.Constructors" />
         <item itemvalue="Application.classes.Main" />
         <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.MethodsChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665347906336</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Composition">
+      <created>1665513249339</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665513249340</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
