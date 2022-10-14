@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Composition">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lists_arraylists/ArryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lists_arraylists/List.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="added arraylist">
+      <change afterPath="$PROJECT_DIR$/src/main/java/autoboxing_and_unboxing/AutoboxingAndUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlists/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedlists/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lists_arraylists/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lists_arraylists/ArryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lists_arraylists/ArryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lists_arraylists/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lists_arraylists/GroceryList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +54,13 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.lists_arraylists.Main">
     <configuration name="Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructors.Constructors" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control_flow_statements.ForLoop" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="control_flow_statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lists_arraylists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lists_arraylists.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lists_arraylists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lists_arraylists.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Polymorphism" />
         <item itemvalue="Application.Constructors" />
         <item itemvalue="Application.classes.Main" />
-        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665513249340</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added arraylist">
+      <created>1665591914423</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665591914423</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +294,7 @@
     <MESSAGE value="Classes" />
     <MESSAGE value="Constructors" />
     <MESSAGE value="Composition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Composition" />
+    <MESSAGE value="added arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="added arraylist" />
   </component>
 </project>

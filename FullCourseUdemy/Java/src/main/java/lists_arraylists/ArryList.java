@@ -1,6 +1,6 @@
 package lists_arraylists;
 
-public class ArryList {
+public class ArryList<I> {
 
 
 }
