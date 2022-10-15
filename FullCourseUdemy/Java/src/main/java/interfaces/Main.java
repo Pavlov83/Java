@@ -8,5 +8,11 @@ public class Main {
         pavlovPhone.powerOn();
         pavlovPhone.answer();
 
+      ITelephone pavsMobilePhone = new MoiblePhone();
+      pavlovPhone.powerOn();
+      pavlovPhone.callPhone(54235);
+
+
+
     }
 }
