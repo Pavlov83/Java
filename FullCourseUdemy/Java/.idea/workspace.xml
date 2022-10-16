@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="added arraylist,LinkedList,autoboxing,">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/MoiblePhone.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="interfaces">
+      <change afterPath="$PROJECT_DIR$/src/main/java/inner_classes/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inner_classes/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfaces/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665777093018</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="interfaces">
+      <created>1665859009380</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665859009380</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +313,7 @@
     <MESSAGE value="Composition" />
     <MESSAGE value="added arraylist" />
     <MESSAGE value="added arraylist,LinkedList,autoboxing," />
-    <option name="LAST_COMMIT_MESSAGE" value="added arraylist,LinkedList,autoboxing," />
+    <MESSAGE value="interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces" />
   </component>
 </project>
