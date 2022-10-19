@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Inner classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_classes/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_classes/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_classes/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_classes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstract_classes/Parrot.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Abstract classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +49,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.abstract_classes.Main">
+  <component name="RunManager" selected="Application.generics.Main">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlists.Demo" />
       <module name="Java" />
@@ -80,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.Polymorphism" />
+    <configuration name="abstract_classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_classes.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="abstract_classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abstract_classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_classes.Main" />
+    <configuration name="generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_classes.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.generics.Main" />
         <item itemvalue="Application.abstract_classes.Main" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.lists_arraylists.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Polymorphism" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665952394674</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Abstract classes">
+      <created>1666032966147</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666032966147</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +328,7 @@
     <MESSAGE value="added arraylist,LinkedList,autoboxing," />
     <MESSAGE value="interfaces" />
     <MESSAGE value="Inner classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inner classes" />
+    <MESSAGE value="Abstract classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes" />
   </component>
 </project>
