@@ -12,6 +12,16 @@ public class Main {
         items.add(5);
 
         printDoubled(items);
+
+
+        FootballPlayer joe = new FootballPlayer("Joe");
+        BaseballPlayer elrond = new BaseballPlayer("Elrond");
+
+        Team lyulinRats = new Team("LY Rats");
+        lyulinRats.addPlayer(joe);
+        lyulinRats.addPlayer(elrond);
+        System.out.println(lyulinRats.numPlayers());
+
     }
 
     private static void printDoubled(ArrayList<Integer> n){

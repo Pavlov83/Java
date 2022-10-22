@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Abstract classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Main.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Generic Types">
+      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666032966147</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Generic Types">
+      <created>1666208282069</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666208282069</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +342,7 @@
     <MESSAGE value="interfaces" />
     <MESSAGE value="Inner classes" />
     <MESSAGE value="Abstract classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes" />
+    <MESSAGE value="Generic Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic Types" />
   </component>
 </project>
