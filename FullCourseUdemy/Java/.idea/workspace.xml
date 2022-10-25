@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Generic Types">
-      <change afterPath="$PROJECT_DIR$/src/main/java/design_patterns/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/SoccerPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/generics/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/staticKeyword/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/generics/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/scope/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scope/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/staticKeyword/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/staticKeyword/StaticTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,26 +53,13 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.generics.Main">
+  <component name="RunManager" selected="Application.scope.Main">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlists.Demo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="linkedlists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="scope.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scope.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.scope.Main" />
         <item itemvalue="Application.generics.Main" />
         <item itemvalue="Application.abstract_classes.Main" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.lists_arraylists.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666208282069</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Generic Types">
+      <created>1666459620485</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666459620485</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

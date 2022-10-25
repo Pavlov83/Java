@@ -15,12 +15,16 @@ public class Main {
 
 
         FootballPlayer joe = new FootballPlayer("Joe");
-        BaseballPlayer elrond = new BaseballPlayer("Elrond");
+        FootballPlayer elrond = new FootballPlayer("Elrond");
+        BaseballPlayer mike = new BaseballPlayer("Mike");
 
-        Team lyulinRats = new Team("LY Rats");
+        Team<FootballPlayer> lyulinRats = new Team<>("LY Rats");
         lyulinRats.addPlayer(joe);
         lyulinRats.addPlayer(elrond);
         System.out.println(lyulinRats.numPlayers());
+
+        Team<BaseballPlayer> theJets = new Team<>("Jets");
+        theJets.addPlayer(mike);
 
     }
 
