@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Generic Types">
-      <change afterPath="$PROJECT_DIR$/src/main/java/staticKeyword/Main.java" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Static">
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/final_keyword/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/final_keyword/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/generics/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/scope/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scope/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/staticKeyword/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/staticKeyword/StaticTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -50,16 +51,30 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/collections" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.scope.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlists.Demo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="linkedlists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final_keyword.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,19 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lists_arraylists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lists_arraylists.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lists_arraylists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="scope.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scope.Main" />
       <module name="Java" />
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.scope.Main" />
         <item itemvalue="Application.generics.Main" />
         <item itemvalue="Application.abstract_classes.Main" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.lists_arraylists.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666459620485</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Static">
+      <created>1666721929878</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666721929878</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,6 +357,7 @@
     <MESSAGE value="Inner classes" />
     <MESSAGE value="Abstract classes" />
     <MESSAGE value="Generic Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic Types" />
+    <MESSAGE value="Static" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static" />
   </component>
 </project>
