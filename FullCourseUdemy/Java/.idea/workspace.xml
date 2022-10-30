@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Static">
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/final_keyword/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/final_keyword/SomeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Collections">
+      <change afterPath="$PROJECT_DIR$/src/main/java/immutable_classes/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666721929878</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Collections">
+      <created>1666893970022</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1666893970022</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,6 +362,7 @@
     <MESSAGE value="Abstract classes" />
     <MESSAGE value="Generic Types" />
     <MESSAGE value="Static" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static" />
+    <MESSAGE value="Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections" />
   </component>
 </project>

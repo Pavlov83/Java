@@ -38,7 +38,6 @@ public class Main {
         Collections.copy(newList, theatre.seats);
     }
 
-
     public static void printList(List<Theatre.Seat> list) {
         for(Theatre.Seat seat : list) {
             System.out.print(" " + seat.getSeatNumber());
