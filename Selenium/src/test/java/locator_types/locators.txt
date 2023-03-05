@@ -1,0 +1,18 @@
+-- Locators--
+
+id
+name
+cssSelector
+xpath
+tagName
+className
+linkTest
+partialLinkText
+
+--Relative Locators--
+
+above
+below
+near
+toRightOf
+toLeftOf
