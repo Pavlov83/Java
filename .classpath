@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Algorithms"/>
+	<classpathentry kind="src" path="BuilderPattern/src"/>
+	<classpathentry kind="src" path="FullCourseUdemy/Java/src/main/java"/>
+	<classpathentry kind="src" path="StrategyPattern/src"/>
+	<classpathentry kind="output" path="FullCourseUdemy/Java/target/classes"/>
+</classpath>
