@@ -5,9 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7dd0410-23cf-4c98-8d94-3416cca6ad07" name="Changes" comment="Collections">
-      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../OOP/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/PracticeConcepts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/classes/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/classes/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/classes/classes challenge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/classes/constructor challenge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeConcepts/src/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/practice/CarMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../RestAssuredPractice/.idea/RestAssuredPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/immutable_classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/immutable_classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arrays/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classes/SimpleCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/classes/SimpleCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composition/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composition/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composition/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composition/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composition/Motherboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composition/Motherboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/composition/Resolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/composition/Resolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/conditional_logic/ConditionalLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/conditional_logic/ConditionalLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constructors/BankAcount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/BankAcount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constructors/Constructors.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/Constructors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/control_flow_statements/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/control_flow_statements/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/control_flow_statements/SwitchChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/control_flow_statements/SwitchChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/control_flow_statements/SwitchStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/control_flow_statements/SwitchStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/inheritance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logical_operators/AssignmentOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logical_operators/AssignmentOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logical_operators/LogicalOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logical_operators/LogicalOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logical_operators/OperatorsChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logical_operators/OperatorsChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logical_operators/TernaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logical_operators/TernaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/methods/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/methods/MethodsChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/methods/MethodsChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/operators_expressions/OperatorsExpressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/operators_expressions/OperatorsExpressions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Forgetable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/Forgetable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/IndependenceDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/IndependenceDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Jaws.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/Jaws.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/MazeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/MazeRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/Polymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/Polymorphism.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism/StarWars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/polymorphism/StarWars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primitive_types_challenge/FloatingPointChallenges.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primitive_types_challenge/FloatingPointChallenges.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/primitive_types_challenge/PrimitiveTypesChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/primitive_types_challenge/PrimitiveTypesChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/variables_datatypes/Datatypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/variables_datatypes/Datatypes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +92,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-17&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -52,23 +104,17 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlists.Demo" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.inheritance.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PracticeConcepts" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="final_keyword.Main" />
-      <module name="Java" />
+      <module name="RestAssuredPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="final_keyword.*" />
@@ -79,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abstract_classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_classes.Main" />
-      <module name="Java" />
+    <configuration name="classes.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.Main" />
+      <module name="PracticeConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_classes.*" />
+          <option name="PATTERN" value="classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.Main" />
-      <module name="Java" />
+    <configuration name="inheritance.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.Main" />
+      <module name="PracticeConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scope.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scope.Main" />
-      <module name="Java" />
+    <configuration name="inheritance.practice.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.practice.Main" />
+      <module name="RestAssuredPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scope.*" />
+          <option name="PATTERN" value="inheritance.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inheritance.Main" />
+        <item itemvalue="Application.classes.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.inheritance.practice.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.scope.Main" />
-        <item itemvalue="Application.generics.Main" />
-        <item itemvalue="Application.abstract_classes.Main" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,15 @@
+
+Create a new class Customer with three fields:
+
+name
+credit limit
+email address
+
+Create a constructor for all three fields which should assign
+the arguments to the fields
+
+Create no args constructor that calls another constructor
+passing some values for each argument
+
+Create a constructor with just the name and email parameters
+which also calls another constructor

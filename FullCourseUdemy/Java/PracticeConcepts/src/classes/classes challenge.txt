@@ -1,0 +1,14 @@
+Create a new class for a bank account
+
+Create fields for
+account number
+account balance
+
+Add getters and setters for each field
+
+Create two additional methods deposit and withdraw(only if balance is positive)
+
+Create instance of an account class and test deposit and withdraw
+
+
+
